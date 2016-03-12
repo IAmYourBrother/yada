@@ -1,0 +1,26 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\bin\Debug\Controller.exe.config
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\bin\Debug\Controller.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\bin\Debug\Controller.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\bin\Debug\PSSFx.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\bin\Debug\PSSLib.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\bin\Debug\PSSFx.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\bin\Debug\PSSLib.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\obj\Debug\Controller.Form1.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\obj\Debug\Controller.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\obj\Debug\Controller.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\Controller\obj\Debug\Controller.pdb
+C:\Users\jacde\Documents\WCFPSS\Controller\bin\Debug\Controller.exe.config
+C:\Users\jacde\Documents\WCFPSS\Controller\obj\Debug\Controller.exe
+C:\Users\jacde\Documents\WCFPSS\Controller\obj\Debug\Controller.pdb
+C:\Users\jacde\Documents\WCFPSS\Controller\bin\Debug\Controller.exe
+C:\Users\jacde\Documents\WCFPSS\Controller\bin\Debug\Controller.pdb
+C:\Users\jacde\Documents\WCFPSS\Controller\bin\Debug\PSSFx.dll
+C:\Users\jacde\Documents\WCFPSS\Controller\bin\Debug\PSSLib.dll
+C:\Users\jacde\Documents\WCFPSS\Controller\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Documents\WCFPSS\Controller\bin\Debug\PSSLib.pdb
+C:\Users\jacde\Documents\WCFPSS\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Documents\WCFPSS\Controller\obj\Debug\Controller.Form1.resources
+C:\Users\jacde\Documents\WCFPSS\Controller\obj\Debug\Controller.Properties.Resources.resources
+C:\Users\jacde\Documents\WCFPSS\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache

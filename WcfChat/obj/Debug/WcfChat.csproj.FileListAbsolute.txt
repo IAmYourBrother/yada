@@ -1,0 +1,42 @@
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\bin\Debug\WcfChat.exe
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\bin\Debug\WcfChat.pdb
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\obj\Debug\WcfChat.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\obj\Debug\WcfChat.ChatApp.resources
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\obj\Debug\WcfChat.Login.resources
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\obj\Debug\WcfChat.Properties.Resources.resources
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\obj\Debug\WcfChat.csproj.GenerateResource.Cache
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\obj\Debug\WcfChat.exe
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\obj\Debug\WcfChat.pdb
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\bin\Debug\WcfChat.exe.config
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\bin\Debug\PSSFx.dll
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\bin\Debug\PSSLib.dll
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Desktop\WCFPSS\WcfChat\bin\Debug\PSSLib.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\bin\Debug\WcfChat.exe.config
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\obj\Debug\WcfChat.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\obj\Debug\WcfChat.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\bin\Debug\WcfChat.exe
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\bin\Debug\WcfChat.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\bin\Debug\PSSFx.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\bin\Debug\PSSLib.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\bin\Debug\PSSFx.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\bin\Debug\PSSLib.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\obj\Debug\WcfChat.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\obj\Debug\WcfChat.ChatApp.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\obj\Debug\WcfChat.Login.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\obj\Debug\WcfChat.Properties.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfChat\obj\Debug\WcfChat.csproj.GenerateResource.Cache
+C:\Users\jacde\Documents\WCFPSS\WcfChat\bin\Debug\WcfChat.exe.config
+C:\Users\jacde\Documents\WCFPSS\WcfChat\obj\Debug\WcfChat.exe
+C:\Users\jacde\Documents\WCFPSS\WcfChat\obj\Debug\WcfChat.pdb
+C:\Users\jacde\Documents\WCFPSS\WcfChat\bin\Debug\WcfChat.exe
+C:\Users\jacde\Documents\WCFPSS\WcfChat\bin\Debug\WcfChat.pdb
+C:\Users\jacde\Documents\WCFPSS\WcfChat\bin\Debug\PSSFx.dll
+C:\Users\jacde\Documents\WCFPSS\WcfChat\bin\Debug\PSSLib.dll
+C:\Users\jacde\Documents\WCFPSS\WcfChat\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Documents\WCFPSS\WcfChat\bin\Debug\PSSLib.pdb
+C:\Users\jacde\Documents\WCFPSS\WcfChat\obj\Debug\WcfChat.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Documents\WCFPSS\WcfChat\obj\Debug\WcfChat.ChatApp.resources
+C:\Users\jacde\Documents\WCFPSS\WcfChat\obj\Debug\WcfChat.Login.resources
+C:\Users\jacde\Documents\WCFPSS\WcfChat\obj\Debug\WcfChat.Properties.Resources.resources
+C:\Users\jacde\Documents\WCFPSS\WcfChat\obj\Debug\WcfChat.csproj.GenerateResource.Cache

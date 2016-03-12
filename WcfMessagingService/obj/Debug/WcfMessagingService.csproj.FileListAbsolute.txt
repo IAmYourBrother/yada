@@ -1,0 +1,16 @@
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\bin\Debug\WcfMessagingService.dll.config
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\bin\Debug\WcfMessagingService.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\bin\Debug\WcfMessagingService.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\obj\Debug\WcfMessagingService.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\obj\Debug\WcfMessagingService.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\bin\Debug\PSSFx.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\bin\Debug\PSSFx.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\WcfMessagingService\obj\Debug\WcfMessagingService.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\bin\Debug\WcfMessagingService.dll.config
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\bin\Debug\WcfMessagingService.dll
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\bin\Debug\WcfMessagingService.pdb
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\bin\Debug\PSSFx.dll
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\obj\Debug\WcfMessagingService.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\obj\Debug\WcfMessagingService.dll
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService\obj\Debug\WcfMessagingService.pdb

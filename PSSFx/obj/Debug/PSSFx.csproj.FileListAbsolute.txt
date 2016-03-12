@@ -1,0 +1,20 @@
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSFx\bin\Debug\PSSFx.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSFx\bin\Debug\PSSFx.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSFx\obj\Debug\PSSFx.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSFx\obj\Debug\PSSFx.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSFx\obj\Debug\PSSFx.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Desktop\WCFPSS\PSSFx\bin\Debug\PSSFx.dll
+C:\Users\jacde\Desktop\WCFPSS\PSSFx\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Desktop\WCFPSS\PSSFx\obj\Debug\PSSFx.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Desktop\WCFPSS\PSSFx\obj\Debug\PSSFx.dll
+C:\Users\jacde\Desktop\WCFPSS\PSSFx\obj\Debug\PSSFx.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSFx\bin\Debug\PSSFx.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSFx\bin\Debug\PSSFx.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSFx\bin\Debug\System.Net.Http.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSFx\bin\Debug\System.Net.Http.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSFx\obj\Debug\PSSFx.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSFx\obj\Debug\PSSFx.pdb
+C:\Users\jacde\Documents\WCFPSS\PSSFx\bin\Debug\PSSFx.dll
+C:\Users\jacde\Documents\WCFPSS\PSSFx\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Documents\WCFPSS\PSSFx\obj\Debug\PSSFx.dll
+C:\Users\jacde\Documents\WCFPSS\PSSFx\obj\Debug\PSSFx.pdb

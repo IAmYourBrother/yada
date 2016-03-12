@@ -1,0 +1,36 @@
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\bin\Debug\PSSLib.dll.config
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\bin\Debug\PSSLib.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\bin\Debug\PSSLib.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\bin\Debug\PSSFx.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\bin\Debug\WcfMessagingService.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\bin\Debug\PSSFx.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\bin\Debug\WcfMessagingService.pdb
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\obj\Debug\PSSLib.csprojResolveAssemblyReference.cache
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\obj\Debug\PSSLib.dll
+C:\Users\IT154L-AT1-20\Downloads\WCFPSS\PSSLib\obj\Debug\PSSLib.pdb
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\bin\Debug\PSSLib.dll.config
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\bin\Debug\PSSLib.dll
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\bin\Debug\PSSLib.pdb
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\bin\Debug\PSSFx.dll
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\obj\Debug\PSSLib.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\obj\Debug\PSSLib.dll
+C:\Users\jacde\Desktop\WCFPSS\PSSLib\obj\Debug\PSSLib.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\bin\Debug\PSSLib.dll.config
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\bin\Debug\PSSLib.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\bin\Debug\PSSLib.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\bin\Debug\PSSFx.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\bin\Debug\System.Net.Http.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\bin\Debug\PSSFx.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\bin\Debug\System.Net.Http.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\obj\Debug\PSSLib.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\obj\Debug\PSSLib.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\PSSLib\obj\Debug\PSSLib.pdb
+C:\Users\jacde\Documents\WCFPSS\PSSLib\bin\Debug\PSSLib.dll.config
+C:\Users\jacde\Documents\WCFPSS\PSSLib\bin\Debug\PSSLib.dll
+C:\Users\jacde\Documents\WCFPSS\PSSLib\bin\Debug\PSSLib.pdb
+C:\Users\jacde\Documents\WCFPSS\PSSLib\bin\Debug\PSSFx.dll
+C:\Users\jacde\Documents\WCFPSS\PSSLib\bin\Debug\PSSFx.pdb
+C:\Users\jacde\Documents\WCFPSS\PSSLib\obj\Debug\PSSLib.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Documents\WCFPSS\PSSLib\obj\Debug\PSSLib.dll
+C:\Users\jacde\Documents\WCFPSS\PSSLib\obj\Debug\PSSLib.pdb

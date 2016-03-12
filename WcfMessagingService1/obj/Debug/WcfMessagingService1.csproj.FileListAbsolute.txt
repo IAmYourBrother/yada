@@ -1,0 +1,17 @@
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.dll.config
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.dll
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.pdb
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.dll
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.pdb
+C:\Users\jacde\Desktop\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.dll.config
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.pdb
+C:\Users\jacde\Documents\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.dll.config
+C:\Users\jacde\Documents\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.dll
+C:\Users\jacde\Documents\WCFPSS\WcfMessagingService1\bin\Debug\WcfMessagingService1.pdb
+C:\Users\jacde\Documents\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.csprojResolveAssemblyReference.cache
+C:\Users\jacde\Documents\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.dll
+C:\Users\jacde\Documents\WCFPSS\WcfMessagingService1\obj\Debug\WcfMessagingService1.pdb
